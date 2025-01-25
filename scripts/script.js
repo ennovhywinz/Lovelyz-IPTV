@@ -64,8 +64,8 @@
 	    { name: "HBO SIGNATURE", src: "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd", drm: "clearkey", key: "a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f" },
 	    { name: "HBO FAMILY", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd", drm: "clearkey", key: "872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be" },
 	    { name: "TVN", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd", drm: "clearkey", key: "e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10" },
-	    { name: "KBS WORLD", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd", drm: "clearkey", key: "692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2" },
-	    { name: "KPLUS", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd", drm: "clearkey", key: "aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261" },
+	    { name: "KBS WORLD", src: "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8", drm: "" },
+	    { name: "ANIMAX", src: "https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd", drm: "clearkey", key: "edf1a715de9748638dd2fad75a419af2': '2f5a3199b26e9b693ae881af7ff864cf" },
 	    { name: "MTV LIVE", src: "https://cdn09jtedge.indihometv.com/atm/hlsv3/MTV_LIVE/MTV_LIVE-avc1_2500000=6-mp4a_96000=2.m3u8", drm: "" },
             { name: "MTV HITS", src: "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd", drm: "clearkey", key: "f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac" },
 	    { name: "KPOP TV PLAY", src: "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8", drm: "" }

@@ -125,6 +125,7 @@
             { name: "GO3 SPORTS OPEN", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd", drm: "clearkey", key: "e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d" },
             { name: "NOVA SPORT 1", src: "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd", drm: "clearkey", key: "11223344556677889900112233445566:11223344556677889900112233445566" },
             { name: "NOVA SPORT 2", src: "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd", drm: "clearkey", key: "11223344556677889900112233445566:11223344556677889900112233445566" }
+        ];
 
         document.addEventListener('DOMContentLoaded', async () => {
             const videoElement = document.getElementById('video');

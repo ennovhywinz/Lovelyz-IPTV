@@ -119,10 +119,10 @@
 	    { name: "RED BULL TV", src: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8", drm: "" },
 	    { name: "BOXING TV", src: "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8", drm: "" },
             { name: "SETANTA SPORTS", src: "https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd", drm: "clearkey", key: "8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08" },
-            { name: "TNT SPORTS 1", src: "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd", drm: "clearkey", key: "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" },
-            { name: "TNT SPORTS 2", src: "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd", drm: "clearkey", key: "6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441" },
-            { name: "TNT SPORTS 3", src: "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd", drm: "clearkey", key: "4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f" },
-            { name: "TNT SPORTS 4", src: "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd", drm: "clearkey", key: "e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729" }
+            { name: "TNT SPORTS 1", src: "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd", drm: "clearkey", key: "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" },
+            { name: "TNT SPORTS 2", src: "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd", drm: "clearkey", key: "6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441" },
+            { name: "TNT SPORTS 3", src: "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd", drm: "clearkey", key: "4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f" },
+            { name: "TNT SPORTS 4", src: "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd", drm: "clearkey", key: "e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

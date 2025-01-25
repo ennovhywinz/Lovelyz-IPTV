@@ -102,8 +102,8 @@
             { name: "PBS KIDS", src: "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8", drm: "" },
             { name: "DREAMWORKS", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd", drm: "clearkey", key: "4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079" },
 	    { name: "DISNEY US", src: "https://disney-channel.13l.link/live/Disney/index.m3u8", drm: "" },
-            { name: "BEIN SPORTS 1", src: "https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash", drm: "clearkey", key: "{"92964e74bebce041660fb124b8976680":"b90847044266ac963f96654336370090"}" },
-            { name: "BEIN SPORTS 2", src: "https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash", drm: "clearkey", key: "{"6d8181bca994eaa57329e04c98122868":"da9b3e7a19a1430b19047792fc6add67"}" }
+            { name: "BEIN SPORTS 1", src: "https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash", drm: "clearkey", key: "92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090" },
+            { name: "BEIN SPORTS 2", src: "https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash", drm: "clearkey", key: "6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

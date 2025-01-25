@@ -86,6 +86,22 @@
             bottom: 0;
             width: 100%;
         }
+        .menu-btn {
+            position: fixed;
+            top: 15px;
+            left: 15px;
+            width: 40px;
+            height: 40px;
+            background: #FFFFFF;
+            color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+            border-radius: 50%;
+            cursor: pointer;
+            z-index: 100;
+        }
         .menu-box {
             position: fixed;
             top: 65px;

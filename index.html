@@ -1,35 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LovelysIPTV</title>
-    <script src="https://dunggramer.github.io/disable-devtool/disable-devtool.min.js" defer></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/shaka-player/4.5.0/shaka-player.compiled.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/shaka-player/4.5.0/shaka-player.ui.js"></script>
-    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/shaka-player/4.5.0/controls.css">
-    <link rel="stylesheet" href="./styles/style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LovelysIPTV</title>
+<script src="https://dunggramer.github.io/disable-devtool/disable-devtool.min.js" defer></script>
+<script src="https://ajax.googleapis.com/ajax/libs/shaka-player/4.5.0/shaka-player.compiled.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/shaka-player/4.5.0/shaka-player.ui.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/shaka-player/4.5.0/controls.css">
+<link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
-
-    <div class="video-container">
-        <div id="video-container">
-            <video id="video" autoplay></video>
-            <div class="shaka-controls-container">
-                <div class="shaka-controls"></div>
-            </div>
-        </div>
+<div class="video-container">
+    <div id="video-container">
+        <video id="video" autoplay></video>
+    <div class="shaka-controls-container">
+        <div class="shaka-controls"></div>
     </div>
-    
-    <div class="channel-list">
-        <h2>CHANNELS</h2>
-        <div class="search-container">
-            <input type="text" id="searchInput" placeholder="Search channels..." onkeyup="searchChannels()">
-        </div>
-        <ul id="channelList"></ul>
     </div>
+</div>
 
+<div class="channel-list">
+    <h2>CHANNELS</h2>
+    <div class="search-container">
+    <input type="text" id="searchInput" placeholder="Search channels..." onkeyup="searchChannels()">
+    </div>
+    <ul id="channelList"></ul>
+    </div>
 <script src="./scripts/script.js"></script>
-
 </body>
 </html> 

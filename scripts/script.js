@@ -94,6 +94,7 @@
             { name: "NICKELODEON", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd", drm: "clearkey", key: "9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72" },
             { name: "NICK JUNIOR", src: "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd", drm: "clearkey", key: "bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8" },
             { name: "ZOOMOO", src: "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8", drm: "" },
+            { name: "BBC KIDS", src: "https://dmr1h4skdal9h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/ce36558b-b031-4284-94be-91ed22d31a41/2.m3u8", drm: "" },
             { name: "MOONBUG", src: "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd", drm: "clearkey", key: "0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f" },
             { name: "PBS KIDS", src: "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8", drm: "" },
             { name: "DREAMWORKS", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd", drm: "clearkey", key: "4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079" },

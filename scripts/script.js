@@ -72,7 +72,7 @@
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {
-            const videoElement = document.getElementById('vvideo');
+            const videoElement = document.getElementById('video');
             const videoContainer = document.getElementById('video-container');
             const channelListElement = document.getElementById('channelList');
 

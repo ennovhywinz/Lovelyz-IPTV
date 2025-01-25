@@ -117,12 +117,16 @@
             { name: "SPOTV2", src: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd", drm: "clearkey", key: "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed" },
 	    { name: "FIGHT SPORTS", src: "https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8", drm: "" },
 	    { name: "RED BULL TV", src: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8", drm: "" },
+	    { name: "TSN 1", src: "http://212.102.60.231/TSN_1/index.m3u8", drm: "" },
+	    { name: "TSN 2", src: "http://212.102.60.231/TSN_2/index.m3u8", drm: "" },
+	    { name: "TSN 3", src: "http://212.102.60.231/TSN_3/index.m3u8", drm: "" },
+	    { name: "TSN 4", src: "http://212.102.60.231/TSN_4/index.m3u8", drm: "" },
+	    { name: "TSN 5", src: "http://212.102.60.231/TSN_5/index.m3u8", drm: "" },
 	    { name: "BOXING TV", src: "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8", drm: "" },
+	    { name: "SPORTS TV", src: "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8", drm: "" },
             { name: "SETANTA SPORTS", src: "https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd", drm: "clearkey", key: "8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08" },
-            { name: "TNT SPORTS 1", src: "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd", drm: "clearkey", key: "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" },
-            { name: "TNT SPORTS 2", src: "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd", drm: "clearkey", key: "6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441" },
-            { name: "TNT SPORTS 3", src: "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd", drm: "clearkey", key: "4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f" },
-            { name: "TNT SPORTS 4", src: "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd", drm: "clearkey", key: "e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729" }
+	    { name: "GO3 SPORTS 1", src: "https://wowza1.leisertv.com/live/viasatsportbaltic.stream/playlist.m3u8", drm: "" },
+	    { name: "GO3 SPORTS 2", src: "https://wowza3.leisertv.com/live/tvplaysportsplushd.stream/playlist.m3u8", drm: "" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

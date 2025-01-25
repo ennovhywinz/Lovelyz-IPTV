@@ -66,13 +66,26 @@
 	    { name: "TVN", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd", drm: "clearkey", key: "e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10" },
 	    { name: "KBS WORLD", src: "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8", drm: "" },
 	    { name: "ANIMAX", src: "https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd", drm: "clearkey", key: "edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf" },
+	    { name: "DISCOVERY CHANNEL", src: "https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8", drm: "" },
+	    { name: "ANIMAL PLANET", src: "https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8", drm: "" },
+	    { name: "FOOD NETWORK", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd", drm: "clearkey", key: "b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14" },
+	    { name: "HGTV", src: "https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd", drm: "clearkey", key: "f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a" },
+	    { name: "TLC", src: "https://cdn09jtedge.indihometv.com/joss/133/tlc/index.m3u8", drm: "" },
+	    { name: "TRAVEL CHANNEL", src: "https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd", drm: "clearkey", key: "f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839" },
+	    { name: "DISCOVERY ASIA", src: "https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8", drm: "" },
+	    { name: "ASIAN FOOD NETWORK", src: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd", drm: "clearkey", key: "1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4" },
+	    { name: "BBC EARTH", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd", drm: "clearkey", key: "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e" },
+	    { name: "BBC LIFESTYLE", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd", drm: "clearkey", key: "34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0" },
+	    { name: "HISTORY", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd", drm: "clearkey", key: "a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675" },
+	    { name: "CRIME + INVESTIGATION", src: "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8", drm: "" },
+	    { name: "LIFETIME", src: "https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8", drm: "" },
 	    { name: "MTV LIVE", src: "https://cdn09jtedge.indihometv.com/atm/hlsv3/MTV_LIVE/MTV_LIVE-avc1_2500000=6-mp4a_96000=2.m3u8", drm: "" },
             { name: "MTV HITS", src: "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd", drm: "clearkey", key: "f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac" },
 	    { name: "KPOP TV PLAY", src: "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8", drm: "" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {
-            const videoElement = document.getElementById('video');
+            const videoElement = document.getElementById('vvideo');
             const videoContainer = document.getElementById('video-container');
             const channelListElement = document.getElementById('channelList');
 

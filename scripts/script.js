@@ -125,7 +125,8 @@
 	    { name: "BOXING TV", src: "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8", drm: "" },
             { name: "SETANTA SPORTS", src: "https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd", drm: "clearkey", key: "8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08" },
 	    { name: "GO3 SPORTS 1", src: "https://wowza1.leisertv.com/live/viasatsportbaltic.stream/playlist.m3u8", drm: "" },
-	    { name: "GO3 SPORTS 2", src: "https://wowza3.leisertv.com/live/tvplaysportsplushd.stream/playlist.m3u8", drm: "" }
+	    { name: "GO3 SPORTS 2", src: "https://wowza3.leisertv.com/live/tvplaysportsplushd.stream/playlist.m3u8", drm: "" },
+            { name: "GO3 SPORTS 3", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd", drm: "clearkey", key: "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

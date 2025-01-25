@@ -117,19 +117,14 @@
             { name: "SPOTV2", src: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd", drm: "clearkey", key: "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed" },
 	    { name: "FIGHT SPORTS", src: "https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8", drm: "" },
 	    { name: "RED BULL TV", src: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8", drm: "" },
-	    { name: "TSN 1", src: "https://212.102.60.231/TSN_1/index.m3u8", drm: "" },
-	    { name: "TSN 2", src: "https://212.102.60.231/TSN_2/index.m3u8", drm: "" },
-	    { name: "TSN 3", src: "https://212.102.60.231/TSN_3/index.m3u8", drm: "" },
-	    { name: "TSN 4", src: "https://212.102.60.231/TSN_4/index.m3u8", drm: "" },
-	    { name: "TSN 5", src: "https://212.102.60.231/TSN_5/index.m3u8", drm: "" },
 	    { name: "BOXING TV", src: "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8", drm: "" },
             { name: "SETANTA SPORTS", src: "https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd", drm: "clearkey", key: "8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08" },
             { name: "GO3 SPORTS 1", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd", drm: "clearkey", key: "610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5" },
             { name: "GO3 SPORTS 2", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd", drm: "clearkey", key: "3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615" },
             { name: "GO3 SPORTS 3", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd", drm: "clearkey", key: "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43" },
             { name: "GO3 SPORTS OPEN", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd", drm: "clearkey", key: "e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d" },
-            { name: "INFINITY+ 1", src: "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd", drm: "clearkey", key: "00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076" }
-        ];
+            { name: "NOVA SPORT 1", src: "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd", drm: "clearkey", key: "11223344556677889900112233445566:11223344556677889900112233445566" },
+            { name: "NOVA SPORT 2", src: "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd", drm: "clearkey", key: "11223344556677889900112233445566:11223344556677889900112233445566" }
 
         document.addEventListener('DOMContentLoaded', async () => {
             const videoElement = document.getElementById('video');

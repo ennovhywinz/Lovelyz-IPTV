@@ -122,9 +122,10 @@
             { name: "GO3 SPORTS 1", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd", drm: "clearkey", key: "610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5" },
             { name: "GO3 SPORTS 2", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd", drm: "clearkey", key: "3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615" },
             { name: "GO3 SPORTS 3", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd", drm: "clearkey", key: "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43" },
-            { name: "GO3 SPORTS OPEN", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd", drm: "clearkey", key: "e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d" },
-            { name: "NOVA SPORT 1", src: "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd", drm: "clearkey", key: "11223344556677889900112233445566:11223344556677889900112233445566" },
-            { name: "NOVA SPORT 2", src: "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd", drm: "clearkey", key: "11223344556677889900112233445566:11223344556677889900112233445566" }
+            { name: "GO3 SPORTS OPEN", src: "https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd", drm: "clearkey", key: "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0" },
+            { name: "ARENA SPORT PREMIUM 1", src: "https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd", drm: "clearkey", key: "c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d" },
+            { name: "ARENA SPORT PREMIUM 2", src: "https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd", drm: "clearkey", key: "c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d" },
+            { name: "ARENA SPORT PREMIUM 3", src: "https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd", drm: "clearkey", key: "c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

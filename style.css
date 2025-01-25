@@ -43,6 +43,12 @@
             background-color: #555;
             text-align: center;
         }
+        .channel-list p {
+            padding: 8px;
+            margin: 0;
+            background-color: #555;
+            text-align: center;
+        }
         .search-container {
             padding: 10px;
             background-color: #555;

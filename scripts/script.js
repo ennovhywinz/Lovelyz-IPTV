@@ -81,12 +81,15 @@
 	    { name: "BBC EARTH", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd", drm: "clearkey", key: "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e" },
 	    { name: "BBC LIFESTYLE", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd", drm: "clearkey", key: "34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0" },
             { name: "CURIOSITY CHANNEL", src: "https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8", drm: "" },
+	    { name: "AMC BREAK", src: "https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd", drm: "clearkey", key: "15e412a4edd85313233969913072e0ff:5098eafaff2b246ee15e8f9aeb5403fb" },
+	    { name: "AMC CRIME", src: "https://ott.zapitv.com/live/eds_c2/crimen/dash_live_enc/crimen.mpd", drm: "clearkey", key: "e3048d6cc539b8a8b90d74992fb4e197:4e494e4d179abc3d3f10073b21ac8630" },
 	    { name: "MTV LIVE", src: "https://cdn09jtedge.indihometv.com/atm/hlsv3/MTV_LIVE/MTV_LIVE-avc1_2500000=6-mp4a_96000=2.m3u8", drm: "" },
             { name: "MTV HITS", src: "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd", drm: "clearkey", key: "f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac" },
 	    { name: "KPOP TV PLAY", src: "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8", drm: "" },
             { name: "CARTOON NETWORK", src: "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd", drm: "clearkey", key: "a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444" },
 	    { name: "CARTOONITO", src: "https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8", drm: "" },
-            { name: "DISNEY", src: "https://disney-channel.13l.link/live/Disney/index.m3u8", drm: "" }
+            { name: "DISNEY", src: "https://disney-channel.13l.link/live/Disney/index.m3u8", drm: "" },
+            { name: "DISNEY XD", src: "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8", drm: "" },
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

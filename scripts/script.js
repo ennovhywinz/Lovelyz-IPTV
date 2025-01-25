@@ -112,14 +112,3 @@
             )
                 return false;
         };
-        
-        function toggleMenu() {
-            document.getElementById('menu').classList.toggle('show');
-        }
-        document.addEventListener("click", function (event) {
-            const menu = document.getElementById("menu");
-            const menuButton = document.querySelector(".hamburger-menu");
-            if (!menu.contains(event.target) && !menuButton.contains(event.target)) {
-                menu.classList.remove("show");
-            }
-        });

@@ -86,7 +86,7 @@
 	    { name: "KPOP TV PLAY", src: "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8", drm: "" },
             { name: "CARTOON NETWORK", src: "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd", drm: "clearkey", key: "a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444" },
 	    { name: "CARTOONITO", src: "https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8", drm: "" },
-            { name: "DISNEY", src: "https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8", drm: "" }
+            { name: "DISNEY", src: "https://disney-channel.13l.link/live/Disney/index.m3u8", drm: "" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

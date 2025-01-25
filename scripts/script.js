@@ -11,7 +11,7 @@
             { name: "BUKO CHANNEL", src: "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd", drm: "clearkey", key: "d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615" },
             { name: "ONE NEWS", src: "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd", drm: "clearkey", key: "d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f" },
             { name: "ONE PH", src: "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd", drm: "clearkey", key: "92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3" },
-            { name: "MEDIA PILIPINAS", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd", drm: "clearkey", key: "6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807" },
+            { name: "MEDIA PILIPINAS TV", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd", drm: "clearkey", key: "6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807" },
             { name: "TRUE FM TV", src: "https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd", drm: "clearkey", key: "0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce" },
             { name: "PEOPLE'S TELEVISION", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd", drm: "clearkey", key: "71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600" },
             { name: "JUNGO PINOY TV", src: "https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8", drm: "" },
@@ -112,7 +112,17 @@
             { name: "NBA TV PHILIPPINES", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd", drm: "clearkey", key: "c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a" },
             { name: "TAP SPORTS", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd", drm: "clearkey", key: "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f" },
             { name: "PREMIER SPORTS", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd", drm: "clearkey", key: "fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7" },
-            { name: "PREMIER SPORTS 2", src: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd", drm: "clearkey", key: "59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc" }
+            { name: "PREMIER SPORTS 2", src: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd", drm: "clearkey", key: "59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc" },
+            { name: "SPOTV", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd", drm: "clearkey", key: "ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e" },
+            { name: "SPOTV2", src: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd", drm: "clearkey", key: "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed" },
+	    { name: "FIGHT SPORTS", src: "https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8", drm: "" },
+	    { name: "RED BULL TV", src: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8", drm: "" },
+	    { name: "BOXING TV", src: "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8", drm: "" },
+            { name: "SETANTA SPORTS", src: "https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd", drm: "clearkey", key: "8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08" },
+            { name: "TNT SPORTS 1", src: "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd", drm: "clearkey", key: "ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d" },
+            { name: "TNT SPORTS 2", src: "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd", drm: "clearkey", key: "6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441" },
+            { name: "TNT SPORTS 3", src: "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd", drm: "clearkey", key: "4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f" },
+            { name: "TNT SPORTS 4", src: "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd", drm: "clearkey", key: "e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

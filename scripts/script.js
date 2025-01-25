@@ -48,6 +48,8 @@
             { name: "HITS", src: "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd", drm: "clearkey", key: "dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5" },
             { name: "HITS MOVIES", src: "https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8", drm: "" },
             { name: "HITS NOW", src: "https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8", drm: "" },
+            { name: "AMC", src: "https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd", drm: "clearkey", key: "ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52" },
+            { name: "SUNDANCE TV", src: "https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd", drm: "clearkey", key: "7107df0ecf168438df3d5e35a06f5e8b:1541c20a7dc82b302ec9b97274910162" },
             { name: "CALLE 13", src: "https://ott.zapitv.com/live/eds_c2/calle_13/dash_live_enc/calle_13.mpd", drm: "clearkey", key: "6ae50bb56203f2f3875e3ee78efab1a5:f22429107ea7806f54902bb2926c8872" },
             { name: "SYFY", src: "https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd", drm: "clearkey", key: "95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd" },
             { name: "WARNER TV", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd", drm: "clearkey", key: "4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71" },
@@ -57,8 +59,7 @@
             { name: "HOLLYWOOD", src: "https://ott.zapitv.com/live/eds_c2/hollywood_hd/dash_live_enc/hollywood_hd.mpd", drm: "clearkey", key: "38b0a87ba1614db52f1520191282a0db:af101261419cdcf7c09b82592eac862a" },
             { name: "MOVIEBOX", src: "https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8", drm: "" },
             { name: "HBO", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd", drm: "clearkey", key: "d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b" },
-	    { name: "HBO 2", src: "http://109.233.89.166/HBO_2_HD/tracks-v1a2/mono.m3u8", drm: "" },
-            { name: "HBO 3", src: "http://109.233.89.166/HBO_3_HD/tracks-v1a2/mono.m3u8", drm: "" },
+	    { name: "CINEMAX", src: "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd", drm: "clearkey", key: "b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955" },
 	    { name: "MTV LIVE", src: "https://cdn09jtedge.indihometv.com/atm/hlsv3/MTV_LIVE/MTV_LIVE-avc1_2500000=6-mp4a_96000=2.m3u8", drm: "" },
             { name: "MTV HITS", src: "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd", drm: "clearkey", key: "f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac" }
         ];

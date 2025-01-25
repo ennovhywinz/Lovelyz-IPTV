@@ -123,9 +123,8 @@
             { name: "GO3 SPORTS 2", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd", drm: "clearkey", key: "3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615" },
             { name: "GO3 SPORTS 3", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd", drm: "clearkey", key: "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43" },
             { name: "GO3 SPORTS OPEN", src: "https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd", drm: "clearkey", key: "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0" },
-            { name: "ARENA SPORT PREMIUM 1", src: "https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd", drm: "clearkey", key: "c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d" },
-            { name: "ARENA SPORT PREMIUM 2", src: "https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd", drm: "clearkey", key: "c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d" },
-            { name: "ARENA SPORT PREMIUM 3", src: "https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd", drm: "clearkey", key: "c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d" }
+            { name: "XFC", src: "https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8", drm: "" },
+            { name: "UNIFI SPORTS", src: "https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd", drm: "clearkey", key: "" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

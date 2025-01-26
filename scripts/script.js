@@ -127,7 +127,8 @@
             { name: "UNIFI SPORTS", src: "https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd", drm: "clearkey", key: "" },
             { name: "NBA TV", src: "https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8", drm: "" },
             { name: "EUROSPORT 1", src: "https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd", drm: "clearkey", key: "237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3" },
-            { name: "EUROSPORT 2", src: "https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd", drm: "clearkey", key: "15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b" }
+            { name: "EUROSPORT 2", src: "https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd", drm: "clearkey", key: "15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b" },
+            { name: "W-SPORT", src: "https://cdn09jtedge.indihometv.com/joss/133/paramount/index.m3u8", drm: "" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

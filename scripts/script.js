@@ -130,7 +130,9 @@
             { name: "EUROSPORT 2", src: "https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd", drm: "clearkey", key: "15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b" },
             { name: "W-SPORT", src: "https://cdn09jtedge.indihometv.com/joss/133/paramount/index.m3u8", drm: "" },
             { name: "BE MAD", src: "https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd", drm: "clearkey", key: "3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d7" },
-            { name: "SURF CHANNEL", src: "https://ott.zapitv.com/live/eds_c2/surf_channel/dash_live_enc/surf_channel.mpd", drm: "clearkey", key: "4f59b4aefec579d0e2e27acb881b042a:c9d80a33d090b8b31098b78e0a663cda" }
+            { name: "SURF CHANNEL", src: "https://ott.zapitv.com/live/eds_c2/surf_channel/dash_live_enc/surf_channel.mpd", drm: "clearkey", key: "4f59b4aefec579d0e2e27acb881b042a:c9d80a33d090b8b31098b78e0a663cda" },
+            { name: "WWE NETWORK", src: "https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8", drm: "" },
+            { name: "ESR", src: "https://eyeonesports.com/ES2RA-628g.m3u8", drm: "" }
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

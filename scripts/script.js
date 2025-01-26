@@ -124,14 +124,14 @@
             { name: "GO3 SPORTS 3", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd", drm: "clearkey", key: "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43" },
             { name: "GO3 SPORTS OPEN", src: "https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd", drm: "clearkey", key: "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0" },
             { name: "XFC", src: "https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8", drm: "" },
-            { name: "TRACE SPORT STARS", src: "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8", drm: "" },
             { name: "UNIFI SPORTS", src: "https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd", drm: "clearkey", key: "" },
             { name: "NBA TV", src: "https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8", drm: "" },
             { name: "EUROSPORT 1", src: "https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd", drm: "clearkey", key: "237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3" },
             { name: "EUROSPORT 2", src: "https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd", drm: "clearkey", key: "15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b" },
             { name: "W-SPORT", src: "https://cdn09jtedge.indihometv.com/joss/133/paramount/index.m3u8", drm: "" },
-            { name: "GAME+", src: "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8", drm: "" },
             { name: "WWE NETWORK", src: "https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8", drm: "" },
+            { name: "BILLIARD TV", src: "https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8", drm: "" },
+            { name: "GAME+", src: "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8", drm: "" },
             { name: "ESR", src: "https://eyeonesports.com/ES2RA-628g.m3u8", drm: "" }
         ];
 

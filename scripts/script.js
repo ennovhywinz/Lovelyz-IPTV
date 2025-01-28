@@ -72,6 +72,8 @@
             { name: "AMC", src: "https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd", drm: "clearkey", key: "ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52" },
             { name: "SUNDANCE TV", src: "https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd", drm: "clearkey", key: "7107df0ecf168438df3d5e35a06f5e8b:1541c20a7dc82b302ec9b97274910162" },
             { name: "LOTUS MACAU", src: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd", drm: "clearkey", key: "60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1" },
+            { name: "MBC MAX", src: "https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd", drm: "clearkey", key: "0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212" },
+            { name: "MBC ACTION", src: "https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd", drm: "clearkey", key: "5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1" },
             { name: "MTV", src: "https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd", drm: "clearkey", key: "10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536" },
             { name: "MTV LIVE", src: "https://tr.live.cdn.cgates.lt/live/dash/560701/index.mpd", drm: "clearkey", key: "1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a" },
             { name: "MTV HITS", src: "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd", drm: "clearkey", key: "f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac" },

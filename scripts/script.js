@@ -89,7 +89,7 @@
             { name: "ANIMAL PLANET", src: "https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8", drm: "" },
 	    { name: "TEST: DISCOVERY CHANNEL", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd", drm: "", key: "276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1" },
 	    { name: "TEST: ANIMAL PLANET", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd", drm: "", key: "d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c" },
-	    { name: "TEST: DISCOVERY ASIA", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd", drm: "", key: "3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553 },
+	    { name: "TEST: DISCOVERY ASIA", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd", drm: "", key: "3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553" },
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

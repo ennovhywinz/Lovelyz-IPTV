@@ -3,7 +3,7 @@
         }
 
         const channels = [
-            { name: "TEST [IVE - REBEL HEART]", src: "https://media-hosting.imagekit.io//93c790c33d0042a1/IVE%20%EC%95%84%EC%9D%B4%EB%B8%8C%20'REBEL%20HEART'%20MV.mp4?Expires=1832393791&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=oodaZmFZDjmMn~TcEqF~n7hkkCqm1qEuYVbaRUYRe70RSyOUJukmlEQz093KWS~sYJdqpXpFJWzaJLipZ322LBWF~1lMHBAct7u50jtp1qKOnal-usyeK7FuyJxpaWdL~-ozuIz4siz9GJyJ0pivam66MR~C4u-HdcNcsOuALNWvklesenJ1ZSu9f7RqufrzszJCzlCxZ6cim5H2YCnvF3rujMSsmzzfZR0TFI9v5CTZv7yUn8JIEGLhY56Yykey2sNDZJOhCjuKfroslGkBhVuDhMHwA9~ACxX3V6T42irlf93qBIavNbNYi-0lsZ25nU8qVD32SfxxdmR-aekVTg__", drm: "" },
+            { name: "TEST [IVE 'ATTITUDE' CONCEPT FILM]", src: "https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IVE%20%EC%95%84%EC%9D%B4%EB%B8%8C%20'ATTITUDE'%20Concept%20Film.mp4%22%2C%22type%22%3A%22video%2Fmp4%22%2C%22signedurl_expire%22%3A%222028-01-28T17%3A03%3A25.633Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F25ed1fc04d114ea5%2FIVE%2520%25EC%2595%2584%25EC%259D%25B4%25EB%25B8%258C%2520'ATTITUDE'%2520Concept%2520Film.mp4%3FExpires%3D1832691806%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DJUgIKm4TP5mYzaCm7EA5mjZWDi2-IQsjLapim0P1kGI6XTuAiTXMcBSYM4iO635Ew5aCgIUqLacSm9BgCcAXMkmq-dw5Hq-zCnZglE~t2VQSj7ywEPHelHxdMQITXBWgRD5G2mgRHTPflO1pqA7K4lyfmQFub50YlrKDQsW9qgbh64FrVeSXgrHPUigErpuBkMxHT07S5OJ8wQHz2VBRBHtZJqB3G1Gl2SNrjViMzV6kLiU5OT-xbUd3Ub9Hvkw~qbGZ7GaEn67yiPO2ZdcZi6hM6vYZMkFpd3BmHWe339SQJ17tpzS7p6lRxXwWmGGrZKZpAZ5yFk3CgVrAVvLb-w__%22%7D", drm: "" },
             { name: "TV5", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd", drm: "clearkey", key: "2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d" },
             { name: "ONE SPORTS", src: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd", drm: "clearkey", key: "53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd" },
             { name: "RPTV", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd", drm: "clearkey", key: "1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595" },
@@ -104,6 +104,7 @@
             { name: "DISNEY XD", src: "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8", drm: "" },
             { name: "NICKELODEON", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd", drm: "clearkey", key: "9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72" },
             { name: "NICK JUNIOR", src: "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd", drm: "clearkey", key: "bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8" },
+            { name: "NICKTOONS", src: "https://tr.live.cdn.cgates.lt/live/dash/561208/index.mpd", drm: "clearkey", key: "3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47" },
             { name: "ZOOMOO", src: "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8", drm: "" },
             { name: "BBC KIDS", src: "https://dmr1h4skdal9h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/ce36558b-b031-4284-94be-91ed22d31a41/2.m3u8", drm: "" },
             { name: "MOONBUG", src: "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd", drm: "clearkey", key: "0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f" },
@@ -125,6 +126,7 @@
             { name: "GO3 SPORTS 1", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd", drm: "clearkey", key: "610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5" },
             { name: "GO3 SPORTS 2", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd", drm: "clearkey", key: "3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615" },
             { name: "GO3 SPORTS 3", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd", drm: "clearkey", key: "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43" },
+            { name: "GO3 SPORTS OPEN", src: "https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd", drm: "clearkey", key: "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0" },
             { name: "XFC", src: "https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8", drm: "" },
             { name: "UNIFI SPORTS", src: "https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd", drm: "clearkey", key: "" },
             { name: "NBA TV", src: "https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8", drm: "" },

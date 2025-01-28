@@ -79,7 +79,7 @@
             { name: "MTV HITS", src: "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd", drm: "clearkey", key: "f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac" },
 	    { name: "KPOP TV PLAY", src: "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8", drm: "" },    
 	    { name: "TVN", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd", drm: "clearkey", key: "e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10" },
-	    { name: "TVN MOVIES", src: "https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd", drm: "clearkey", key: "8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252" },
+	    { name: "TVN MOVIES", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd", drm: "clearkey", key: "8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252" },
 	    { name: "KBS WORLD", src: "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8", drm: "" },
 	    { name: "ONE", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default.mpd", drm: "clearkey", key: "d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29" },
 	    { name: "K-PLUS", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd", drm: "clearkey", key: "aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261" },
@@ -87,9 +87,6 @@
 	    { name: "ANIME X HIDIVE", src: "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8", drm: "" },
 	    { name: "DISCOVERY CHANNEL", src: "https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8", drm: "" },
             { name: "ANIMAL PLANET", src: "https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8", drm: "" },
-	    { name: "TEST: DISCOVERY CHANNEL", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd", drm: "", key: "276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1" },
-	    { name: "TEST: ANIMAL PLANET", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd", drm: "", key: "d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c" },
-	    { name: "TEST: DISCOVERY ASIA", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd", drm: "", key: "3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553" },
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

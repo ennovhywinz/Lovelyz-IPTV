@@ -87,6 +87,7 @@
 	    { name: "ANIME X HIDIVE", src: "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8", drm: "" },
 	    { name: "DISCOVERY CHANNEL", src: "https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8", drm: "" },
             { name: "ANIMAL PLANET", src: "https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8", drm: "" },
+	    { name: "EDGE SPORT", src: "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00545-edgenetworks-edgesport-dash-sooka/index.mpd", drm: "" },
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

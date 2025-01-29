@@ -104,7 +104,7 @@
             { name: "INVESTIGATION DISCOVERY", src: "https://uselector.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd", drm: "clearkey", key: "2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188" },
             { name: "DISCOVERY ASIA", src: "https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8", drm: "" },
             { name: "ASIAN FOOD NETWORK", src: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd", drm: "clearkey", key: "1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4" },
-            { name: "NATIONAL GEOGRAPHIC", src: "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd", drm: "clearkey", key: "ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c" },
+            { name: "NATIONAL GEOGRAPHIC", src: "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd", drm: "clearkey", key: "1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c" },
             { name: "NATIONAL GEOGRAPHIC WILD", src: "https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd", drm: "clearkey", key: "276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519" },
 	    { name: "HISTORY", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd", drm: "clearkey", key: "a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675" },
             { name: "CRIME + INVESTIGATION", src: "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8", drm: "" },

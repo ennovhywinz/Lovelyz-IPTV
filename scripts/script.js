@@ -109,13 +109,22 @@
 	    { name: "HISTORY", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd", drm: "clearkey", key: "a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675" },
             { name: "CRIME + INVESTIGATION", src: "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8", drm: "" },
             { name: "LIFETIME", src: "https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8", drm: "" },
-	    { name: "STAR LIFE", src: "https://uselector.cdn.intigral-ott.net/FXL/FXL.isml/manifest.mpd", drm: "clearkey", key: "6614a52b865d3b2fd5202aeece2983b5:c56950cff44f8f3b7d03e4ec2a1431dd" },
 	    { name: "FASHION TV", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd", drm: "clearkey", key: "971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7" },
 	    { name: "BBC EARTH", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd", drm: "clearkey", key: "34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e" },
 	    { name: "BBC LIFESTYLE", src: "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd", drm: "clearkey", key: "34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0" },
 	    { name: "AMC BREAK", src: "https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd", drm: "clearkey", key: "15e412a4edd85313233969913072e0ff:5098eafaff2b246ee15e8f9aeb5403fb" },
 	    { name: "AMC CRIME", src: "https://ott.zapitv.com/live/eds_c2/crimen/dash_live_enc/crimen.mpd", drm: "clearkey", key: "e3048d6cc539b8a8b90d74992fb4e197:4e494e4d179abc3d3f10073b21ac8630" },
             { name: "CURIOSITY CHANNEL", src: "https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8", drm: "" },
+            { name: "DISNEY CHANNEL", src: "https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd", drm: "clearkey", key: "72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195" },
+            { name: "DISNEY JR.", src: "https://uselector.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd", drm: "clearkey", key: "f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0" },
+            { name: "DISNEY XD", src: "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8", drm: "" },
+            { name: "CARTOON NETWORK", src: "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd", drm: "clearkey", key: "a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444" },
+	    { name: "CARTOONITO", src: "https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8", drm: "" },
+	    { name: "BOING", src: "https://ott.zapitv.com/live/eds_c2/boing/dash_live_enc/boing.mpd", drm: "clearkey", key: "97c3e5f52bf51efe706c221930bc2b5b:b9473af4e52eaa9c9def9f8a5c54333c" },
+            { name: "NICKELODEON", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd", drm: "clearkey", key: "9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72" },
+            { name: "NICK JUNIOR", src: "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd", drm: "clearkey", key: "bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8" },
+            { name: "NICKTOONS", src: "https://tr.live.cdn.cgates.lt/live/dash/561208/index.mpd", drm: "clearkey", key: "3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47" },
+            { name: "DREAMWORKS", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd", drm: "clearkey", key: "4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079" },
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

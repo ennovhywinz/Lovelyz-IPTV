@@ -80,6 +80,7 @@
             { name: "LOTUS MACAU", src: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd", drm: "clearkey", key: "60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1" },
             { name: "MBC MAX", src: "https://uselector.cdn.intigral-ott.net/MBMH/MBMH.isml/manifest.mpd", drm: "clearkey", key: "0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212" },
             { name: "MBC ACTION", src: "https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd", drm: "clearkey", key: "5567531458e9c2e93d22935c45fdef52:f2f613fb2132acd019d2a96bf1be15c1" },
+            { name: "TURNER CLASSIC MOVIES", src: "https://uselector.cdn.intigral-ott.net/TCM/TCM.isml/manifest.mpd", drm: "clearkey", key: "59c626d2eae3ad531022136f1bb4769e:5c83465dc798bab650d802725cc26270" },
             { name: "MTV", src: "https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd", drm: "clearkey", key: "10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536" },
             { name: "MTV LIVE", src: "https://tr.live.cdn.cgates.lt/live/dash/560701/index.mpd", drm: "clearkey", key: "1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a" },
             { name: "MTV HITS", src: "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd", drm: "clearkey", key: "f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac" },
@@ -133,7 +134,7 @@
             { name: "MOONBUG", src: "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd", drm: "clearkey", key: "0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f" },
             { name: "PBS KIDS", src: "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8", drm: "" },
             { name: "BBC KIDS", src: "https://dmr1h4skdal9h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/ce36558b-b031-4284-94be-91ed22d31a41/2.m3u8", drm: "" },
-            { name: "KIDS TONE MAX", src: "https://tr.live.cdn.cgates.lt/live/dash/560706/index.mpd", drm: "clearkey", key: "0d1ad3bcb7a3456ab481a3efc220fbbf:862dc6a316821e9f455af3535e128e48" },
+            { name: "STC TV FAMILY", src: "https://uselector.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd", drm: "clearkey", key: "5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4" },
             { name: "PBA RUSH", src: "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd", drm: "clearkey", key: "76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82" },
             { name: "ONE SPORTS PLUS", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd", drm: "clearkey", key: "322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda" },
             { name: "NBA TV PHILIPPINES", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd", drm: "clearkey", key: "c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a" },
@@ -161,6 +162,8 @@
 	    { name: "MOTORVISION", src: "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8", drm: "" },
 	    { name: "FUEL TV", src: "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8", drm: "" },
             { name: "ESR", src: "https://eyeonesports.com/ES2RA-628g.m3u8", drm: "" },
+	    { name: "BOXING TV", src: "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8", drm: "" },
+            { name: "BILLIARD TV", src: "https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8", drm: "" },
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

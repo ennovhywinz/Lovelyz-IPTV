@@ -158,6 +158,7 @@
             { name: "GO3 SPORTS 3", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd", drm: "clearkey", key: "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43" },
             { name: "GO3 SPORTS OPEN", src: "https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd", drm: "clearkey", key: "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0" },
             { name: "WWE NETWORK", src: "https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8", drm: "" },
+            { name: "FIGHT NETWORK", src: "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8", drm: "" },
             { name: "HORIZON SPORTS", src: "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8", drm: "" },
 	    { name: "RED BULL TV", src: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8", drm: "" },
 	    { name: "MOTORVISION", src: "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8", drm: "" },

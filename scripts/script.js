@@ -87,6 +87,9 @@
 	    { name: "K-PLUS", src: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd", drm: "clearkey", key: "aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261" },
 	    { name: "ANIMAX", src: "https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd", drm: "clearkey", key: "edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf" },
 	    { name: "ANIME X HIDIVE", src: "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8", drm: "" },
+	    { name: "SBS", src: "https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8", drm: "" },
+	    { name: "EBS 1", src: "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8", drm: "" },
+	    { name: "EBS 2", src: "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8", drm: "" },
 	    { name: "DISCOVERY CHANNEL", src: "https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8", drm: "" },
             { name: "ANIMAL PLANET", src: "https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8", drm: "" },
         ];

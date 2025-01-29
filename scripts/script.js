@@ -115,7 +115,7 @@
 	    { name: "AMC BREAK", src: "https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd", drm: "clearkey", key: "15e412a4edd85313233969913072e0ff:5098eafaff2b246ee15e8f9aeb5403fb" },
 	    { name: "AMC CRIME", src: "https://ott.zapitv.com/live/eds_c2/crimen/dash_live_enc/crimen.mpd", drm: "clearkey", key: "e3048d6cc539b8a8b90d74992fb4e197:4e494e4d179abc3d3f10073b21ac8630" },
             { name: "CURIOSITY CHANNEL", src: "https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8", drm: "" },
-            { name: "TECHSTORM", src: "https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8", drm: "" },
+            { name: "TECHSTORM", src: "https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd", drm: "clearkey", key: "69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a" },
             { name: "DISNEY CHANNEL", src: "https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd", drm: "clearkey", key: "72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195" },
             { name: "DISNEY JR.", src: "https://uselector.cdn.intigral-ott.net/DJR/DJR.isml/manifest.mpd", drm: "clearkey", key: "f5df57914a0922d5d5ed6b0a4af6290a:c62b10a180d1770a355b3c4cb6506ca0" },
             { name: "DISNEY XD", src: "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8", drm: "" },

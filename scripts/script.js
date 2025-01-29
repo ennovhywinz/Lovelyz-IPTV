@@ -134,7 +134,6 @@
             { name: "MOONBUG", src: "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd", drm: "clearkey", key: "0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f" },
             { name: "PBS KIDS", src: "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8", drm: "" },
             { name: "BBC KIDS", src: "https://dmr1h4skdal9h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/ce36558b-b031-4284-94be-91ed22d31a41/2.m3u8", drm: "" },
-            { name: "STC TV FAMILY", src: "https://uselector.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd", drm: "clearkey", key: "5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4" },
             { name: "PBA RUSH", src: "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd", drm: "clearkey", key: "76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82" },
             { name: "ONE SPORTS PLUS", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd", drm: "clearkey", key: "322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda" },
             { name: "NBA TV PHILIPPINES", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd", drm: "clearkey", key: "c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a" },
@@ -158,12 +157,14 @@
             { name: "GO3 SPORTS 3", src: "https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd", drm: "clearkey", key: "a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43" },
             { name: "GO3 SPORTS OPEN", src: "https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd", drm: "clearkey", key: "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0" },
             { name: "WWE NETWORK", src: "https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8", drm: "" },
+            { name: "HORIZON SPORTS", src: "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8", drm: "" },
 	    { name: "RED BULL TV", src: "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8", drm: "" },
 	    { name: "MOTORVISION", src: "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8", drm: "" },
 	    { name: "FUEL TV", src: "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8", drm: "" },
             { name: "ESR", src: "https://eyeonesports.com/ES2RA-628g.m3u8", drm: "" },
 	    { name: "BOXING TV", src: "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8", drm: "" },
             { name: "BILLIARD TV", src: "https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8", drm: "" },
+            { name: "GAME+", src: "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8", drm: "" },
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

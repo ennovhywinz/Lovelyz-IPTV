@@ -104,7 +104,7 @@
             { name: "INVESTIGATION DISCOVERY", src: "https://uselector.cdn.intigral-ott.net/DCX/DCX.isml/manifest.mpd", drm: "clearkey", key: "2e364252e8341f5b172da9aa813947e7:674099ec66ddecbc55a244ce06228188" },
             { name: "DISCOVERY ASIA", src: "https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8", drm: "" },
             { name: "ASIAN FOOD NETWORK", src: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd", drm: "clearkey", key: "1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4" },
-            { name: "NATIONAL GEOGRAPHIC", src: "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd", drm: "clearkey", key: "1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c" },
+            { name: "NATIONAL GEOGRAPHIC", src: "https://tr.live.cdn.cgates.lt/live/dash/561901/index.mpd", drm: "clearkey", key: "6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162" },
             { name: "NATIONAL GEOGRAPHIC WILD", src: "https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd", drm: "clearkey", key: "276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519" },
 	    { name: "HISTORY", src: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd", drm: "clearkey", key: "a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675" },
             { name: "CRIME + INVESTIGATION", src: "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8", drm: "" },
@@ -126,6 +126,10 @@
             { name: "NICK JUNIOR", src: "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd", drm: "clearkey", key: "bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8" },
             { name: "NICKTOONS", src: "https://tr.live.cdn.cgates.lt/live/dash/561208/index.mpd", drm: "clearkey", key: "3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47" },
             { name: "DREAMWORKS", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd", drm: "clearkey", key: "4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079" },
+            { name: "ZOOMOO", src: "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8", drm: "" },
+            { name: "MOONBUG", src: "https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd", drm: "clearkey", key: "0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f" },
+            { name: "JIMJAM", src: "https://dash2.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd", drm: "widevine", key: "https://drm.antik.sk/widevine/key" },
+            { name: "PBS KIDS", src: "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8", drm: "" },
         ];
 
         document.addEventListener('DOMContentLoaded', async () => {

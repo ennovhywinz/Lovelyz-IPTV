@@ -3,7 +3,7 @@
         }
 
         const channels = [
-            { name: "TEST [IVE 'ATTITUDE' CONCEPT FILM]", src: "https://media-hosting.imagekit.io//4f9dd1446455498c/holdup%20ni%20bay.mp4?Expires=1833180083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RHr2JTfIrCQiaFtDm1u8hhWC0bi61bfwb~Fa5enjxGnUYt6phXKB1iNmLkp8I2ch5ybhnKRdD1ipAAAGPOPZ6w-PlGdQCZuPUtP1X~DcT9m~TvaAYoVaUifbMcPc5MZi-m~MssPKIx22Zlr6QxIbPkCQFhnEgYZtC5YuToAWqWCMqz4yKqY4uL6ViLbQU0udaXLHxdmE3wmxz0C9QfXf1K4sPGXKN2zZm9VWcUc0XtrJx-QhrDa0vH-DnD5xsnuqtprLUKwtFoj1v5VuxvfT6~3ZnZGBXSVK32PydxftRVtC2zwxF0E0TB5fVrTfVqX3o-LU9208sdf6p~wVWybUbA__", drm: "" },
+            { name: "INTRO NI BUL", src: "https://media-hosting.imagekit.io//4f9dd1446455498c/holdup%20ni%20bay.mp4?Expires=1833180083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=RHr2JTfIrCQiaFtDm1u8hhWC0bi61bfwb~Fa5enjxGnUYt6phXKB1iNmLkp8I2ch5ybhnKRdD1ipAAAGPOPZ6w-PlGdQCZuPUtP1X~DcT9m~TvaAYoVaUifbMcPc5MZi-m~MssPKIx22Zlr6QxIbPkCQFhnEgYZtC5YuToAWqWCMqz4yKqY4uL6ViLbQU0udaXLHxdmE3wmxz0C9QfXf1K4sPGXKN2zZm9VWcUc0XtrJx-QhrDa0vH-DnD5xsnuqtprLUKwtFoj1v5VuxvfT6~3ZnZGBXSVK32PydxftRVtC2zwxF0E0TB5fVrTfVqX3o-LU9208sdf6p~wVWybUbA__", drm: "" },
             { name: "TV5", src: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd", drm: "clearkey", key: "2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d" },
             { name: "ONE SPORTS", src: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd", drm: "clearkey", key: "53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd" },
             { name: "RPTV", src: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd", drm: "clearkey", key: "1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595" },
